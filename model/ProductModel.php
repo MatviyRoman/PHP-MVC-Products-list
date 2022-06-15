@@ -2,9 +2,9 @@
 class ProductModel
 {
     protected $db;
-    protected string $name;
-    protected int $price;
-    protected int $status;
+    protected $name;
+    protected $price;
+    protected $status;
 
     public function __construct($database)
     {
