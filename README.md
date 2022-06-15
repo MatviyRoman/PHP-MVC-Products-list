@@ -1,4 +1,4 @@
-# pdomvc
+# Roman Matviy
 
 Simple CRUD using MVC(Model-Viewer-Controller) which is implement OOP Concept,PDO and Bootstrap
 
